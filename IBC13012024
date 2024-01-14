@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+<h1 class="text-3xl ml-6 font-bold text-blue-600">
+    Governor Das’ Lakshadweep moment</h1>
+<br><br>
+
+<div class="flex-col items-left border-solid bg-amber-100 resize-h max-w-5xl ml-10 mb-6">
+  <p class="mb-2  ml-6 mr-3 text-2xl font-bold text-left"> TL;DR</p>
+  <ul class="pl-10 mb-2 text-black text-xl bg-amber list-inside list-disc text-left ">
+      <li>RBI Governor Das has thrown his weight behind the rightful priority  for secured creditors in the matter of distribution of insolvency proceeds; this is the most authoritative statement  on the Rainbow Papers judgement;</li>
+      <li>Two, the Governor’s stance seems to suggest that financial creditors should consider alternative platforms if the latter hold promise of quicker resolutions and better recovery rates;</li>
+      <li>Three, the Governor’s statement seems to suggest a subtle intellectual bias towards the Debtor-in-Possession (DIP) model.</li>
+  </ul>
+<p class="mb-2  ml-6 mr-6 text-xl text-justify ">AOverall, the Governor’s speech is heavily pregnant with intent on the way forward. The IBC framework is creaking under the weight of expectations. It is time to fix it ground up.
+</p>
+</div>
+
+
+<p class="mb-6  ml-6 mr-6 text-2xl text-justify text-gray-900 first-letter:text-6xl first-letter:font-bold first-letter:text-gray-900  first-letter:mr-3 first-letter:float-left">Governor Das says it as it is. </p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> In a recent engagement, the Governor said all the good things about the Insolvency and Bankruptcy Code (2016). But he also exhorted banks and financial creditors to explore alternative channels if there is better hope of a quicker and more fruitful resolution.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> Speaking at the Centre for Advanced Financial Research and Learning’s (CAFRAL) <a href="https://rbidocs.rbi.org.in/rdocs/Speeches/PDFs/ADDRESSBYGOVERNORCAFRALIBC0E26AB4786BE46CCBE95515563021E2F.PDF"> conference on Future Road Map of Resolution of Stressed Assets and Insolvency and Bankruptcy Code (IBC) </a>  Governor Das forcefully stressed that :</p>
+</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> The Insolvency and Bankruptcy Board of India (IBBI) had reported in Table 2 of its quarterly newsletter for the quarter ended March 2023 while 677 CIRP plans were closed upon approval of resolution plan, three times the number (2030) were closed by liquidation. We had  noted in passing that CIRP plans closed by resolution had a better average realisation of 31.8%  as against 7.0% in the case of liquidation cases.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> In this post, we map the dynamics of CIRPs that ended in liquidation. Data  is available up to December 2022, for 1969 entries; after removing entries with NA values in critical columns, we are left with 1901 entries.
+</p>
+
+<h2 class="text-2xl ml-6 font-semi-bold text-blue-600">1. Indifference or market failure?</h2><br>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> The first items that stands out in the data set is that 76 per cent of the 1969 CIRPs ending in liquidation did not receive a single resolution plan. Data is summarised in Chart 1. The key observation here is that an amount of ₹4.20 lakh crore over 1449 cases was valued in the competitive market for such assets at a lower price point than the liquidation value set by the valuer appointed under Regulation 27 of CIRP Regulations. Hence, not a single resolution plan.</p>
+
+
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> A hypothesis here is that  the size of the stressed businesses--proxied by the amount of debt in default and hence of admitted claims—is so small that competitive firms do not consider it worthwhile to acquire such assets/businesses.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> Chart 2 presents another facet of the data. It plots number of CIRPs on the y-axis against bins of admitted claims. The main chart is an overall view of the entire range of admitted claims (max: ₹53,451 cr. for Lanco Infratech Ltd.); an expanded view of admitted claims less than ₹500 cr is presented in the inset.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> An alternative hypothesis is that the small and medium enterprises (see inset chart) have neither been able to create a market for themselves nor are operating at optimal efficiency in hyper-competitive and fragmented markets.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> Or, it could be just the reverse. Perhaps, these small businesses have done very well in their markets and have hit a growth stall due to lack of management bandwidth/skills in combination with lack of adequate equity or funding support.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> This is a very interesting facet to the local dynamics of small firms, which needs to be investigated.</p>
+ 
+<h2 class="text-2xl ml-6 font-semi-bold text-blue-600">2. Defunct companies at the Pearly Gates</h2><br>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> Of the 1897 valid entries in the liquidation sample, a good 1452 companies (76.54 per cent) were defunct on the date of commencement of Insolvency.
+One can forcefully argue that inefficient or defunct firms exiting the economy in an orderly fashion actually increases the overall efficiency of capital employed. The Economic Survey 2015-16 (Chapter 2: The Chakravyuha Challenge of the Indian Economy) drew a parallel between the chakravyuha in the epic Mahabharta and the lack of exit options in the Indian economy. It documented the opportunity cost of not allowing ‘creative destruction’ in an otherwise dynamic economy.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> Equally strong is the counter argument that the large number of defunct firms at the IBC gates, with an aggregate debt of ₹5.11 lakh crore, speaks very poorly of the oversight mechanisms in banks and financial institutions. No firm shuts down overnight, unless there is fraud or criminal intent involved. The incipient signs of stress show up early in the life of the firm. Perhaps, financial institutions have their oversight targeted at large accounts, with the net result that no one is mind the small credits.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> There is voluminous academic literature on why firms die young. Key findings from across the world include:</p>
+
+<ul class="pl-8 text-black text-2xl mb-6 list-inside list-disc text-left">
+  <li> Lack of management skills, specifically in financial management;</li>
+<li> Inability to create moats around the business;</li>
+<li> Lack of effort at building reputation capital and,</li>
+<li> Finally, excessive reliance on debt to fund the growing business, without adequate equity support.</li>
+</ul>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">I am rather ambivalent on the ex-post efficiency of the Insolvency and Bankruptcy Code (2016). In the chapter ‘Restructuring and Liquidation’, the Expert Committee on Company Law, 2022 (released April 13, 2022) noted:</p>
+
+ <blockquote class="text-xl italic pl-12 ml-15 mb-6 mr-12 font-semibold text-gray-900 text-justify">“The Insolvency law should strike a balance between rehabilitation and liquidation. It should provide an opportunity for genuine effort to explore restructuring/ rehabilitation of potentially viable businesses with consensus of stake holders reasonably arrived at. Where revival/ rehabilitation is demonstrated as not being feasible, winding up should be resorted to. Where circumstances justify, the process should allow for easy conversion of proceedings from one procedure to another.” (Emphasis added)</blockquote>
+ 
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">This is a reasonable and equitable framework for argument. After all the intent of the Insolvency and Bankruptcy Code (2016) is captured in the preamble:</p>
+<blockquote class="text-xl italic pl-12 ml-15 mb-6 mr-12 font-semibold text-gray-900 text-justify">
+“An Act to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner for maximisation of value of assets of such persons.”</blockquote>
+ 
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> One can make an argument that “maximisation of value of assets” includes revival/ rehabilitation of assets where feasible and orderly disposal of the assets at maximum realisable value. But where the firm has already ceased operations on the date of initiation of CIRP proceedings—technically ‘defunct’—it would be erroneous, if not outright foolhardy—to assume that maximisation efforts can lead anywhere but to liquidation.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> A simple conceptual map of the situation suggests that if the equity owners of the distressed firm have written down the value of their equity to zero, no resolution plan would rationally put a real price on the assets. There may be circumstances where the firm’s fixed assets in plant and machinery have already been written down in the books but still command a replacement value in the competitive markets.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> The bulk of evidence suggests the IBC platform is being used largely for an orderly, judicially-mediated distribution of assets of defunct companies. It follows, therefore, that overall efficiency gains can be obtained through a fast track exit tribunal, where liquidation is the first—but not the only--option. Only if the CIRP attracts significant resolution plans, should rehabilitation be considered a viable option.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900"> The short point is that the CIRP process of subjecting all cases through the same workflow for “maximisation of value,” is a waste of the IBC platform and of judicial time. The time so saved could perhaps be used for expeditious disposal of CIRP cases yielding resolution, bringing back the disposal time within the prescribed 180 day limit.</p>
+<h2 class="text-2xl ml-6 font-semi-bold text-blue-600">3. Operational creditors are quick on the draw</h2><br>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">Operational creditors (OC) triggered as many CIRPs--that ended in liquidation—as financial creditors, see chart 3 above. OCs initiated CIRP proceedings in 848 cases, compared with 849 cases filed by financial creditors (FC).</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">Without entering the realm of speculation, one can hypothesise that OCs, being small and vulnerable to defaults in the principal firm, pin their hopes on the promise of time-bound resolution under the IBC.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">A corollary here is that the urgency of stressed loans on FCs is no longer as pressing as it was in the first half of the 2010’s. The Reserve Bank of India’s last Report on Trends and Progress of Banking in India, 2022 Chapter IV, (‘Operations and Performance of Commercial Banks’), which notes:</p>
+<blockquote class="text-xl italic pl-12 ml-15 mb-6 mr-12 font-semibold text-gray-900 text-justify">
+ IV.1: “The legacy challenge of non-performing assets (NPAs) is easing, and profitability has been improving sequentially to levels last observed in 2014-15. This has been accompanied by lower slippages and the bolstering of capital buffers.”
+IV.12: “From its peak in 2017-18, the GNPA ratio of SCBs has been declining sequentially to reach 5 per cent at end- September 2022. This decrease was led by lower slippages as well as reduction in outstanding GNPAs through recoveries, upgradations and write-offs. And
+IV.33: “In 2021-22, the reduction in NPAs was mainly contributed by written-off loans in the case of PSBs, while upgradation of loans was the primary driver for asset quality improvement for private sector banks.”
+ </blockquote>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">In response to a Right to Information (RTI) query, the RBI replied that Banks in India wrote off bad loans totaling more than ₹2.09 lakh crore during the FY23.
+Newspaper Mint reports that loan write-offs by banks increased to ₹209,144 crore during FY23, compared to ₹174,966 crore in FY22 and ₹202,781 crore in FY21, as per the RTI data. Banks have been utilising loan write-offs as a strategy to reduce the burden of non-performing assets on their books (Emphasis added).
+Indian banks are utilising the opportunity thrown up by a combination of lower NPA build-up, higher provisioning coming out of higher net profits to either write off stressed loans or sell off the loans to the. Asset reconstruction companies (ARCs). Boosted by the brighter long term economic outlook, ARCs have been aggressively scouting for opportunities in the distressed asset space.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">The Times of India reports from ARC Association data that the book value of bad loans acquired by ARCs has risen 31 per cent to ₹756,090 crore in FY23, compared to ₹577,807 crore in FY22. “Bankers assert that ARCs remain a viable option for recovery due to their ability to consolidate bad loans, save management time, and free up capital,” the news report asserts.</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">The RBI’s Report on Trends and Progress of Banking in India, 2022 (ibid.) reports that recoveries under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI) and Debt Recovery Tribunals (DRTs) yielded recovery rates comparable to the IBC mechanism. The pre-pack insolvency resolution process, introduced for MSMEs in April 2021, is yet to gain traction and only two cases have been admitted under the channel so far (up to September 2022) (Para IV.40).</p>
+<p class="mb-6   ml-6 mr-6  text-2xl text-gray-900">Perhaps the promise of IBC has already outlived its expiration date. Unless the Ministries of Law & Corporate Affairs,of Law and of Finance put their heads together, the BC platform will deteriorate into another legacy institution, requiring rehabilitation itself.</p>
+
+
+
+
+</body>
+</html>
